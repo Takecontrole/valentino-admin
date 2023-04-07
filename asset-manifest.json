@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/valentino-admin/static/css/main.2f666f1a.css",
+    "main.js": "/valentino-admin/static/js/main.537ab097.js",
+    "static/media/profile.jpeg": "/valentino-admin/static/media/profile.42c126d38ecd6a94419f.jpeg",
+    "index.html": "/valentino-admin/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2f666f1a.css",
+    "static/js/main.537ab097.js"
+  ]
+}

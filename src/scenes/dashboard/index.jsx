@@ -139,7 +139,7 @@ const columns = [
         <Header title="ПАНЕЛЬ УПРАВЛЕНИЯ" subtitle="Добро пожаловать" />
 
         <Box>
-          <Button
+          <Button 
             sx={{
               backgroundColor: theme.palette.secondary.light,
               color: theme.palette.background.alt,

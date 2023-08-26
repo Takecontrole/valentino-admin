@@ -60,7 +60,7 @@ const Transactions = () => {
               padding: "10px 20px",
             }}
           >
-           <a style={{textDecoration:"none", color: theme.palette.background.alt}} href="https://takecontrole.github.io/valentino/#/view-orders" target="_blank">
+           <a style={{textDecoration:"none", color: theme.palette.background.alt}} href="https://valen-nine.vercel.app/#/view-orders" target="_blank">
             Управление доставкой
          </a> 
           </Button>

@@ -55,10 +55,6 @@ const navItems = [
     icon: <ReceiptLongOutlined />,
   },
   {
-    text: "География",
-    icon: <PublicOutlined />,
-  },
-  {
     text: "Аналитика",
     icon: null,
   },

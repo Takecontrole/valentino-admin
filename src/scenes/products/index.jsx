@@ -72,7 +72,7 @@ const Product = ({
           size="small"
           
         >
-         <a style={{textDecoration:"none", color: theme.palette.background.alt}} href={`https://takecontrole.github.io/valentino/#/product/${_id}/edit`} target="_blank">
+         <a style={{textDecoration:"none", color: theme.palette.background.alt}} href={`https://valen-nine.vercel.app/#/product/${_id}/edit`} target="_blank">
           Редактировать
          </a> 
         </Button>
@@ -112,7 +112,7 @@ const Products = () => {
               padding: "10px 20px",
             }}
           >
-           <a style={{textDecoration:"none", color: theme.palette.background.alt}} href="https://takecontrole.github.io/valentino/#/new-product" target="_blank">
+           <a style={{textDecoration:"none", color: theme.palette.background.alt}} href="https://valen-nine.vercel.app/#/new-product" target="_blank">
             Создать новый товар
          </a> 
           </Button>
